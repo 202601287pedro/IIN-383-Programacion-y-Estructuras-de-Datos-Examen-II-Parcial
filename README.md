@@ -13,13 +13,4 @@
 - `IV1.c`: refinamiento y descomposicion.
 - `V1.c`: verificacion de programas y plan de pruebas.
 
-## Compilar
 
-Con GCC, desde la carpeta del proyecto:
-
-```bash
-gcc I1.c -o I1
-./I1
-```
-
-Cambie `I1` por el nombre del ejercicio que desea compilar y ejecutar.
